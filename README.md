@@ -1,46 +1,52 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Daniela+Salgado+;Dev+em+Evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Game+Dev+Entusiasta+%F0%9F%8E%AE;Apaixonada+por+Tecnologia+%F0%9F%92%9C" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB6C1,E6E6FA,FFF0F5&height=180&section=header&text=Olá,%20eu%20sou%20a%20Dani!%20🌷&fontSize=50&fontColor=555555&fontAlignY=40&animation=fadeIn" alt="Soft Header" width="100%"/>
+
+  <br>
+
+  ### 👩‍💻 Desenvolvedora Front-End
+  *Criando interfaces com delicadeza, código e atenção aos detalhes.*
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Front--End-Developer-FFB6C1?style=flat-square&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean-Code-E6E6FA?style=flat-square&logo=visual-studio-code&logoColor=7B68EE" />
+
 </div>
 
-<h1 align="center">👋 Olá, eu sou a Daniela Salgado</h1>
+<br>
 
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Logic](https://img.shields.io/badge/Lógica-VisualG-blueviolet?style=for-the-badge)
-  
-</div>
+<h2 align="center">🌸 Sobre Mim 🌸</h2>
+
+Seja bem-vinda(o) ao meu portfólio! Sou apaixonada por tecnologia e design. Meu foco é transformar linhas de código em experiências de usuário que sejam não apenas funcionais, mas também visualmente agradáveis e intuitivas.
+
+* 🌱 **Estudando atualmente:** Aprimorando minha base em **HTML, CSS, JavaScript** e Lógica de Programação.
+* 🔭 **Foco Técnico:** Especialização em interfaces responsivas e acessibilidade web.
+* 💼 **Metodologia:** Prezo pela organização do código, semântica e boas práticas de desenvolvimento.
+* 🚀 **Objetivo:** Contribuir com soluções criativas e eficientes, unindo estética e funcionalidade.
 
 ---
 
-### 🚀 Sobre Mim
+<h2 align="center">🛠️ Tech Stack</h2>
 
-Este repositório é o "quartel-general" do meu aprendizado. É dedicado ao desenvolvimento e organização dos meus projetos e estudos na área de **Software** e **Game Development**.
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VisualG-Lógica-9370DB?style=flat-square" />
+  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
-Aqui você encontrará a documentação da minha evolução contínua:
-* 🧬 **Lógica de Programação:** Exercícios focados em algoritmos (VisualG e Python).
-* 🎮 **Game Dev:** Prototipagem, Game Design Documents (GDD) e experimentos práticos.
-* 🎨 **Front-End:** Projetos como o *GlowBeauty AI*, focados em interfaces modernas.
-* 🧊 **Visualização 3D:** Estudos iniciais em ambientação e modelagem.
+</div>
+
+<br>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
 <div align="center">
+  
+  ### Vamos nos conectar? 🎀
+  
   <a href="https://github.com/daniisalgado">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniisalgado&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-FFC0CB?style=flat-square&logo=github&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <sub><i>"Press Start: turning imagination into reality."</i> 👾</sub>
-  <br><br>
-  <a href="https://github.com/daniisalgado?tab=repositories">
-    <img src="https://img.shields.io/badge/PRESS_START-Meus_Projetos-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios">
-  </a>
-</div>
