@@ -34,6 +34,7 @@ Seja bem-vinda(o) ao meu portfólio! Sou apaixonada por tecnologia e design. Meu
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/VisualG-Lógica-9370DB?style=flat-square" />
   <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
@@ -50,3 +51,6 @@ Seja bem-vinda(o) ao meu portfólio! Sou apaixonada por tecnologia e design. Meu
   <a href="https://github.com/daniisalgado">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-FFC0CB?style=flat-square&logo=github&logoColor=white" />
   </a>
+
+</div>
+
